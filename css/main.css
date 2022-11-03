@@ -1,29 +1,5 @@
-<!DOCTYPE html><html><head><link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" 
-    rel="stylesheet" 
-    /><link href="https://fonts.googleapis.com/css?family=Poppins&display=swap" 
-    rel="stylesheet" 
-    /></head><body><div class="v20_35"><span class="v1_19"> My Work!</span><div 
-        class="v1_20"></div><span 
-        class="v1_21">Contact me: katiecutter9@gmail.com Copyright 2022</span> <div 
-        class="v1_22"><div 
-        class="v1_23"></div></div><div 
-        class="v1_24"> <div 
-        class="v1_25"></div></div><span 
-        class="v1_26">Rescueme.org Redesign</span><span 
-        class="v1_27">Piggyback App</span><div 
-        class="v1_28"></div><span 
-        class="v1_29">An easy to use app designed for finding savings! </span><span 
-        class="v1_30">Redesign of a non-profit pet rescue website to promote ease of use. </span><div 
-        class="v1_31"></div><span 
-        class="v1_32">Learn more ></span><span 
-        class="v1_33">Learn more ></span><div 
-        class="v1_34"></div><div 
-        class="v1_35"><div 
-        class="name"></div><div 
-        class="v1_37"></div><div 
-        class="v1_38"><div 
-        class="name"></div><div 
-        class="name"></div></div></div><span class="v1_41">KC</span></div></body></html> <br/><br/> <style>* {
+<!DOCTYPE html><html><head><link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet" /><link href="https://fonts.googleapis.com/css?family=Poppins&display=swap" rel="stylesheet" /></head><body><div class="v20_35"><span class="v1_19">         My Work!</span><div class="v1_20"></div><span class="v1_21">Contact me: katiecutter9@gmail.com
+Copyright 2022</span><div class="v1_22"><div class="v1_23"></div></div><div class="v1_24"><div class="v1_25"></div></div><span class="v1_26">Rescueme.org Redesign</span><span class="v1_27">Piggyback App</span><div class="v1_28"></div><span class="v1_29">An easy to use app designed for finding savings! </span><span class="v1_30">Redesign of a non-profit pet rescue website to promote ease of use. </span><div class="v1_31"></div><span class="v1_32">Learn more ></span><span class="v1_33">Learn more ></span><div class="v1_34"></div><div class="v1_35"><div class="name"></div><div class="v1_37"></div><div class="v1_38"><div class="name"></div><div class="name"></div></div></div><span class="v1_41">KC</span></div></body></html> <br/><br/> <style>* {
   box-sizing: border-box;
 }
 body {
@@ -147,7 +123,7 @@ body {
 .v1_28 {
   width: 668px;
   height: 397px;
-  background: url("../images/v44_89.png");
+  background: url("../images/v1_28.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -184,16 +160,15 @@ body {
 .v1_31 {
   width: 325px;
   height: 434px;
-  background: url("../images/v44_92.png");
+  background: url("../images/v1_31.png");
   background-repeat: no-repeat;
-  background-position: right;
-  background-size: cove;
+  background-position: center center;
+  background-size: cover;
   opacity: 1;
   position: absolute;
   top: 818px;
   left: 763px;
   overflow: hidden;
-  
 }
 .v1_32 {
   width: 515px;
@@ -291,5 +266,8 @@ body {
   font-size: 40px;
   opacity: 1;
   text-align: left;
+}
+@media screen (max-width: 600) {
+  
 }
 </style>

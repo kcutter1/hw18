@@ -1,57 +1,32 @@
-<!DOCTYPE html><html><head><link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" 
-    rel="stylesheet" 
-    /><link href="https://fonts.googleapis.com/css?family=Poppins&display=swap" 
-    rel="stylesheet" 
-    /></head><body><div class="v20_35"><span class="v1_19"> My Work!</span><div 
-        class="v1_20"></div><span 
-        class="v1_21">Contact me: katiecutter9@gmail.com Copyright 2022</span> <div 
-        class="v1_22"><div 
-        class="v1_23"></div></div><div 
-        class="v1_24"> <div 
-        class="v1_25"></div></div><span 
-        class="v1_26">Rescueme.org Redesign</span><span 
-        class="v1_27">Piggyback App</span><div 
-        class="v1_28"></div><span 
-        class="v1_29">An easy to use app designed for finding savings! </span><span 
-        class="v1_30">Redesign of a non-profit pet rescue website to promote ease of use. </span><div 
-        class="v1_31"></div><span 
-        class="v1_32">Learn more ></span><span 
-        class="v1_33">Learn more ></span><div 
-        class="v1_34"></div><div 
-        class="v1_35"><div 
-        class="name"></div><div 
-        class="v1_37"></div><div 
-        class="v1_38"><div 
-        class="name"></div><div 
-        class="name"></div></div></div><span class="v1_41">KC</span></div></body></html> <br/><br/> <style>* {
+* {
   box-sizing: border-box;
 }
 body {
   font-size: 14px;
 }
-.v20_35 {
+.v55_47 {
   width: 100%;
   height: 1480px;
   background: rgba(250,250,250,1);
   opacity: 1;
-  position: relative;
+  position: absolute;
   top: 0px;
   left: 0px;
   overflow: hidden;
 }
-.v1_19 {
+.v44_80 {
   width: 878px;
   color: rgba(87,70,109,1);
   position: absolute;
   top: 189px;
-  left: 197px;
+  left: 407px;
   font-family: Roboto;
   font-weight: Black;
   font-size: 80px;
   opacity: 1;
   text-align: left;
 }
-.v1_20 {
+.v44_81 {
   width: 100%;
   height: 101px;
   background: rgba(87,70,109,1);
@@ -62,22 +37,22 @@ body {
   box-shadow: 0px 0px 20px rgba(0.007843137718737125, 0.250980406999588, 0.3490196168422699, 0.30000001192092896);
   overflow: hidden;
 }
-.v1_21 {
+.v44_82 {
   width: 495px;
   color: rgba(255,255,255,1);
   position: absolute;
   top: 1407px;
-  left: 316px;
+  left: 526px;
   font-family: Roboto;
   font-weight: Medium;
   font-size: 24px;
   opacity: 1;
   text-align: center;
 }
-.v1_22 {
+.v44_83 {
   width: 100%;
   height: 434px;
-  background: url("../images/v1_22.png");
+  background: url("../images/v44_83.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -87,7 +62,7 @@ body {
   left: 1px;
   overflow: hidden;
 }
-.v1_23 {
+.v44_84 {
   width: 100%;
   height: 434px;
   background: rgba(246,221,255,1);
@@ -97,10 +72,10 @@ body {
   left: 0px;
   overflow: hidden;
 }
-.v1_24 {
+.v44_85 {
   width: 100%;
   height: 434px;
-  background: url("../images/v1_24.png");
+  background: url("../images/v44_85.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -110,7 +85,7 @@ body {
   left: 1px;
   overflow: hidden;
 }
-.v1_25 {
+.v44_86 {
   width: 100%;
   height: 434px;
   background: rgba(246,221,255,1);
@@ -120,7 +95,7 @@ body {
   left: 0px;
   overflow: hidden;
 }
-.v1_26 {
+.v44_87 {
   width: 678px;
   color: rgba(87,70,109,1);
   position: absolute;
@@ -132,7 +107,7 @@ body {
   opacity: 1;
   text-align: left;
 }
-.v1_27 {
+.v44_88 {
   width: 556px;
   color: rgba(87,70,109,1);
   position: absolute;
@@ -144,7 +119,7 @@ body {
   opacity: 1;
   text-align: left;
 }
-.v1_28 {
+.v44_89 {
   width: 668px;
   height: 397px;
   background: url("../images/v44_89.png");
@@ -154,10 +129,10 @@ body {
   opacity: 1;
   position: absolute;
   top: 361px;
-  left: 586px;
+  left: 796px;
   overflow: hidden;
 }
-.v1_29 {
+.v44_90 {
   width: 608px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -169,7 +144,7 @@ body {
   opacity: 1;
   text-align: left;
 }
-.v1_30 {
+.v44_91 {
   width: 608px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -181,48 +156,47 @@ body {
   opacity: 1;
   text-align: left;
 }
-.v1_31 {
+.v44_92 {
   width: 325px;
   height: 434px;
   background: url("../images/v44_92.png");
   background-repeat: no-repeat;
-  background-position: right;
-  background-size: cove;
+  background-position: center center;
+  background-size: cover;
   opacity: 1;
   position: absolute;
   top: 818px;
-  left: 763px;
+  left: 973px;
   overflow: hidden;
-  
 }
-.v1_32 {
+.v44_93 {
   width: 515px;
   color: rgba(0,0,0,1);
   position: absolute;
   top: 646px;
-  left: 60px;
+  left: 150px;
   font-family: Poppins;
   font-weight: Regular;
   font-size: 40px;
   opacity: 1;
   text-align: left;
 }
-.v1_33 {
+.v44_94 {
   width: 515px;
   color: rgba(0,0,0,1);
   position: absolute;
   top: 1126px;
-  left: 49px;
+  left: 161px;
   font-family: Poppins;
   font-weight: Regular;
   font-size: 40px;
   opacity: 1;
   text-align: left;
 }
-.v1_34 {
+.v44_95 {
   width: 100%;
   height: 515px;
-  background: url("../images/v1_34.png");
+  background: url("../images/v44_95.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -234,10 +208,10 @@ body {
   border-bottom-right-radius: 38px;
   overflow: hidden;
 }
-.v1_35 {
+.v44_96 {
   width: 100%;
   height: 129px;
-  background: url("../images/v1_35.png");
+  background: url("../images/v44_96.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -250,28 +224,28 @@ body {
 .name {
   color: #fff;
 }
-.v1_37 {
+.v44_98 {
   width: 100%;
   height: 101px;
   background: rgba(87,70,109,1);
   opacity: 1;
-  position: relative;
+  position: absolute;
   top: 0px;
   left: 0px;
   box-shadow: 0px 0px 20px rgba(0.007843137718737125, 0.250980406999588, 0.3490196168422699, 0.30000001192092896);
   overflow: hidden;
 }
-.v1_38 {
+.v44_99 {
   width: 357px;
   height: 58px;
-  background: url("../images/v1_38.png");
+  background: url("../images/v44_99.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
   opacity: 1;
   position: absolute;
   top: 39px;
-  left: 880px;
+  left: 1092px;
   overflow: hidden;
 }
 .name {
@@ -280,7 +254,7 @@ body {
 .name {
   color: #fff;
 }
-.v1_41 {
+.v44_102 {
   width: 121px;
   color: rgba(243,219,251,1);
   position: absolute;
@@ -292,4 +266,3 @@ body {
   opacity: 1;
   text-align: left;
 }
-</style>
